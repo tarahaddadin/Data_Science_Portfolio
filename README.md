@@ -6,4 +6,4 @@ Repository containing portfolio of data science projects completed by me for aca
 - [Advertising Data Logistic Regression Model](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/Advertising%20Data%20Logistic%20Regression.ipynb)
 - [Anonymized Data K Nearest Neighbors Classifier](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/Anonymized-Data_KNearestNeighborClassifier.ipynb)
 - [Loans Data Classification - Decision Trees & Random Forests](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/LoanDataClassification_DecisionTree_RandomForest.ipynb)
-- [Iris Data Classification - Support Vector Machines & GridSearch] (https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/IrisClassification_SupportVectorMachines.ipynb)
+- [Iris Data Classification - Support Vector Machines & GridSearch](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/IrisClassification_SupportVectorMachines.ipynb)
