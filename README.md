@@ -7,4 +7,4 @@ Repository containing portfolio of data science projects completed by me for aca
 - [Anonymized Data K Nearest Neighbors Classifier](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/Anonymized-Data_KNearestNeighborClassifier.ipynb)
 - [Loans Data Classification - Decision Trees & Random Forests](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/LoanDataClassification_DecisionTree_RandomForest.ipynb)
 - [Iris Data Classification - Support Vector Machines & GridSearch](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/IrisClassification_SupportVectorMachines.ipynb)
-- [Clustering Private and Public Universities](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/ClusteringUniversities_KMeansClustering.ipynb)
+- [Clustering Private and Public Universities - K Means Clustering](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/ClusteringUniversities_KMeansClustering.ipynb)
