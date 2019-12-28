@@ -8,4 +8,4 @@ Repository containing portfolio of data science projects completed by me for aca
 - [Loans Data Classification - Decision Trees & Random Forests](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/LoanDataClassification_DecisionTree_RandomForest.ipynb)
 - [Iris Data Classification - Support Vector Machines & GridSearch](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/IrisClassification_SupportVectorMachines.ipynb)
 - [Clustering Private and Public Universities - K Means Clustering](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/ClusteringUniversities_KMeansClustering.ipynb)
-- [Spam Detection - Natural Language Processing] (https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/SpamDetector_NatualLanguageProcessing.ipynb)
+- [Spam Detection - Natural Language Processing](https://github.com/tarahaddadin/Data_Science_Portfolio/blob/master/SpamDetector_NatualLanguageProcessing.ipynb)
